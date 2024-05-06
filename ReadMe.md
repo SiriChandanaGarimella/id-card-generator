@@ -22,10 +22,11 @@ In windows:
 - Activate the venv environment: <code>.\venv\Scripts\activate</code>
 - Install the requirements: <code>pip install -r requirements.txt</code>
 
-**Commands to run the script:**
+**Command to run the script:**
+- In macOS: <code>python3 app.py</code>
+- In windows: <code>py app.py</code>
 
-In macOS: <code>python3 app.py</code>
+**Sample Output**
 
-In windows: <code>py app.py</code>
-
+<img width="1469" alt="image" src="https://github.com/SiriChandanaGarimella/id-card-generator/assets/156231102/856a9380-1ba2-4866-9687-724d129117f9">
 
