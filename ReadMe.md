@@ -11,6 +11,7 @@ All the properties should be given in config.properties file
 - **images_directory** = The directory containing the images (Example: /Users/sirichandanagarimella/Documents/images)
 
 **Commands to run the application:**
+
 In macOS:
 - Setup the venv environment: <code>python3 -m venv venv</code>
 - Activate the venv environment: <code>source venv/bin/activate</code>
@@ -22,7 +23,9 @@ In windows:
 - Install the requirements: <code>pip install -r requirements.txt</code>
 
 Command to run the script:
+
 In macOS: <code>python3 app.py</code>
+
 In windows: <code>py app.py</code>
 
 
